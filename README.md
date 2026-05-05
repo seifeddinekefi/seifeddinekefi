@@ -135,6 +135,21 @@ Embedded security system with real-time monitoring capabilities.
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### ⚡ [ReflexMaster](https://github.com/seifeddinekefi/ReflexMaster)
+PIC16F877-based reflex testing game simulated in Proteus ISIS.
+
+**Features:** Reaction time measurement • False start detection • Score tracking • EEPROM persistence • LCD display • Buzzer & LED feedback
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![PIC](https://img.shields.io/badge/PIC16F877-Microcontroller-blue?style=flat-square)
+![Proteus](https://img.shields.io/badge/Proteus-ISIS-1C79B3?style=flat-square)
+
+</td>
+<td width="50%"></td>
+</tr>
 </table>
 
 ---
